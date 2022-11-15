@@ -1,8 +1,0 @@
-**********Tailwind CSS Installation*****************
-
-npm init -y
-npm install tailwindcss
-Note => create command line in package.json file 
-        ("build-css": "tailwindcss build src/style.css -o public/style.css")
-====================================================
-
