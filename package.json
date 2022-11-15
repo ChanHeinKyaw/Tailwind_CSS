@@ -1,0 +1,23 @@
+{
+  "name": "tailwind_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanHeinKyaw/Tailwind_CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanHeinKyaw/Tailwind_CSS/issues"
+  },
+  "homepage": "https://github.com/ChanHeinKyaw/Tailwind_CSS#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
