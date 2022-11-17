@@ -1,0 +1,5 @@
+## Add Tailwind default config file
+cmd => npx tailwindcss init --full
+
+## Tailwind မှာ custom css တွေ add ချင်ရင် 
+extends ထဲမှာ object အနေ နဲ့ add ပေးရတယ်။
