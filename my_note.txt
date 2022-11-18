@@ -6,3 +6,9 @@ extends ထဲမှာ object အနေ နဲ့ add ပေးရတယ်။
 
 ## flex ပေးထားမှ Justity-end,Justity-between တို့ items-end,items-start က အလုပ်လုပ်တယ်။
 
+## Tailwind မှာ media query တွေက 
+sm  => min-width = 640px;
+md  => min-width = 768px;
+lg  => min-width = 1024px;
+xl  => min-width = 1280px;
+ဆိုပြီး ရှိတယ်။ 
